@@ -3,7 +3,7 @@ import pickle as pkl
 import pandas as pd
 
 # Load the trained decision tree model
-model = pkl.load(open("C:/Users/DELL/Documents/Data Science/python/decision_trees_diabetes_pima.sav", "rb"))
+model = pkl.load(open("decision_trees_diabetes_pima.sav", "rb"))
 
 # Sidebar navigation
 page = st.sidebar.radio("Choose A Page:", ["Home", "Prediction", "Disclaimer"])
