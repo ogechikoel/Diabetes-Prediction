@@ -56,7 +56,8 @@ Access it here:
 
 ```bash
 📁 diabetes-prediction
-├── decision_trees_diabetes_pima.sav    # Trained Decision Tree model
-├── diabetes_app.py                     # Streamlit web app script
 ├── README.md                           # Project documentation
-└── requirements.txt                    # Dependencies
+├── diabetes_pima                       # Data Preprocessing and model training
+├── requirements.txt                    # Dependencies
+├── decision_trees_diabetes_pima.sav    # Trained Decision Tree Model
+└── streamlit_app.py                    # Streamlit web app script
