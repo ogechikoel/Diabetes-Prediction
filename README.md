@@ -54,7 +54,9 @@ Access it here:
 
 ## 📂 Project Structure
 
-├── decision_trees_diabetes_pima.sav # Trained Decision Tree model
-├── diabetes_app.py # Streamlit web app script
-├── README.md # Project documentation
-└── requirements.txt # Dependencies
+```bash
+📁 diabetes-prediction
+├── decision_trees_diabetes_pima.sav    # Trained Decision Tree model
+├── diabetes_app.py                     # Streamlit web app script
+├── README.md                           # Project documentation
+└── requirements.txt                    # Dependencies
