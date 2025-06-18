@@ -57,6 +57,7 @@ Access it here:
 ```bash
 📁 diabetes-prediction
 ├── README.md                           # Project documentation
+├── diabetes-1.csv                      # The Diabetes dataset
 ├── diabetes_pima                       # Data Preprocessing and model training
 ├── requirements.txt                    # Dependencies
 ├── decision_trees_diabetes_pima.sav    # Trained Decision Tree Model
